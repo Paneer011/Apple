@@ -1,12 +1,26 @@
-# React + Vite
+# 📱 iPhone 15 Pro Promo Website (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek, Apple-style promotional website for the **iPhone 15 Pro**, built using **React.js** and **Tailwind CSS**. This project showcases a modern product landing page with smooth animations, responsive design, and engaging UI inspired by the official Apple website.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 📸 High-quality product showcase with beautiful visuals
+- 🎯 Responsive design optimized for all screen sizes
+- 💨 Smooth scrolling and Apple-style transitions using "GSAP"
+- 🎨 Clean and modern UI with Tailwind CSS
+- 🧩 Modular and reusable React components
+- 🌙 Dark and light mode toggle (optional)
+- 🔗 CTA buttons and external product links (can be customized)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+Future Enhancements
+- Add more Apple products (MacBook, AirPods, iPad, etc.)
+
+- Add a carousel or interactive 3D viewer.
+
+- Add user interaction features (compare models, color picker, etc.).
+
+- Integrate with backend for e-commerce or booking.
